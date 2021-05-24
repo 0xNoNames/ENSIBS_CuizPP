@@ -1,0 +1,39 @@
+﻿{
+    "texte": [{
+            "id": "1",
+            "difficulte": "facile",
+            "reponse": 0
+        },
+        {
+            "id": "2",
+            "difficulte": "moyenne",
+            "reponse": 2
+        },
+        {
+            "id": "3",
+            "difficulte": "difficile",
+            "reponse": 3
+        }
+    ],
+    "image": [{
+        "id": "1",
+        "difficulte": "moyenne",
+        "reponse": 1
+    }],
+    "audio": [{
+        "id": "1",
+        "difficulte": "moyenne",
+        "reponse": 0
+    }],
+    "chimere": [{
+            "id": "1",
+            "difficulte": "facile",
+            "reponse": 3
+        },
+        {
+            "id": "2",
+            "difficulte": "difficile",
+            "reponse": 1
+        }
+    ]
+}

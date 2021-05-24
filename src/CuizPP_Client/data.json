@@ -1,0 +1,87 @@
+﻿{
+    "texte": [{
+            "id": "1",
+            "difficulte": "facile",
+            "sujet": "Qui sont les créateurs de Cuiz++ ?",
+            "choix": [
+                "François et Arthur",
+                "Jean et Dupont",
+                "Louis et Pierre",
+                "Trump et Biden"
+            ]
+        },
+        {
+            "id": "2",
+            "difficulte": "moyenne",
+            "sujet": "Quel est le pays qui a gagné de la coupe du Monde de Football 2018 ?",
+            "choix": [
+                "Croatie",
+                "Belgique",
+                "France",
+                "Angleterre"
+            ]
+        },
+        {
+            "id": "3",
+            "difficulte": "difficile",
+            "sujet": "Quel est le pays gagnant de l'euro de Football 2016 ?",
+            "choix": [
+                "France",
+                "Allemagne",
+                "Portugal",
+                "Pays de Galle"
+            ]
+        }
+    ],
+    "image": [{
+        "id": "1",
+        "idImage": "1.png",
+        "difficulte": "moyenne",
+        "sujet": "Qui est-ce ?",
+        "choix": [
+            "Sarah",
+            "Sacha",
+            "Pierre",
+            "Ondine"
+        ]
+    }],
+    "audio": [{
+        "id": "1",
+        "idAudio": "1.mp3",
+        "difficulte": "moyenne",
+        "sujet": "Quel est le bruit ?",
+        "choix": [
+            "Singe hurleur",
+            "Cheval",
+            "Canard",
+            "Humain"
+        ]
+    }],
+    "chimere": [{
+            "id": "1",
+            "idAudio": "1.mp3",
+            "idImage": "1.jpg",
+            "difficulte": "facile",
+            "sujet": "Quel est cet animal ?",
+            "choix": [
+                "Lion",
+                "Chien",
+                "Chat",
+                "Elephant"
+            ]
+        },
+        {
+            "id": "2",
+            "idAudio": "2.mp3",
+            "idImage": "2.jpg",
+            "difficulte": "difficile",
+            "sujet": "Quelle est cette map venant de CS:GO ?",
+            "choix": [
+                "Inferno",
+                "Mirage",
+                "Nuke",
+                "Overpass"
+            ]
+        }
+    ]
+}
